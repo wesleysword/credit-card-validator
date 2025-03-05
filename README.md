@@ -28,6 +28,7 @@ Atualmente, a aplicação suporta as seguintes bandeiras de cartões de crédito
 2. Navegue até o diretório do projeto.
 3. Abra o arquivo `src/index.js` e substitua o valor da variável `numeroCartao` pelo número do cartão que deseja validar.
 4. Execute o arquivo `index.js` usando Node.js.
+5. Use Cartões ficticios com o gerador [4Devs](https://www.4devs.com.br/gerador_de_numero_cartao_credito) 
 
 ### Exemplo de Uso
 
